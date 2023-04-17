@@ -46,6 +46,7 @@ public class restcontroller {
             Rectangle rectangle=new Rectangle();
             rectangle.setLength(10.0);
             rectangle.setWidth(5.0);
+            rectangle.setColor("blue");
             return rectangle;
         }
         else
